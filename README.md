@@ -1,2 +1,2 @@
-# ToDo-list
-This is repository for project ToDo list using react
+# LGMVIP-WEB_Internship
+This is repository forLGMVIP-WEB_Internship
